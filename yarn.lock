@@ -1270,8 +1270,8 @@ acorn-walk@^6.0.1:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
 
 acorn@^5.0.0, acorn@^5.5.3, acorn@^5.6.2:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 acorn@^6.0.1, acorn@^6.0.7:
   version "6.2.0"
@@ -8229,6 +8229,10 @@ react-table@^6.10.1:
 react-tagsinput@^3.19.0:
   version "3.19.0"
   resolved "https://registry.yarnpkg.com/react-tagsinput/-/react-tagsinput-3.19.0.tgz#6e3b45595f2d295d4657bf194491988f948caabf"
+
+react-timestamp@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-5.1.0.tgz#fb2ee03fee3f2d2d1ea457d26b8f19e8817644f9"
 
 react-transition-group@^2.2.1, react-transition-group@^2.3.1:
   version "2.9.0"
