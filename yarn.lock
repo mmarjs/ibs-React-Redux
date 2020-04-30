@@ -5461,8 +5461,8 @@ jquery-mousewheel@^3.1.13:
   resolved "https://registry.yarnpkg.com/jquery-mousewheel/-/jquery-mousewheel-3.1.13.tgz#06f0335f16e353a695e7206bf50503cb523a6ee5"
 
 jquery@>=1.5, jquery@^3.2.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
 
 js-base64@^2.1.8:
   version "2.5.1"
@@ -8229,6 +8229,10 @@ react-table@^6.10.1:
 react-tagsinput@^3.19.0:
   version "3.19.0"
   resolved "https://registry.yarnpkg.com/react-tagsinput/-/react-tagsinput-3.19.0.tgz#6e3b45595f2d295d4657bf194491988f948caabf"
+
+react-timestamp@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-5.1.0.tgz#fb2ee03fee3f2d2d1ea457d26b8f19e8817644f9"
 
 react-transition-group@^2.2.1, react-transition-group@^2.3.1:
   version "2.9.0"
